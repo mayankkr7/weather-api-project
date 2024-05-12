@@ -1,11 +1,12 @@
-
-<h1 align="center">Weather App</h1>
+# Weather App
 
 ### Overview
 
 This project is a weather application built using React.js. It allows users to check the current weather conditions for a specific city. Users can enter the name of a city, and the application retrieves weather data from the OpenWeatherMap API. To use the app, type a name of the city and click on search/press Enter or else click on the Check button.
 
-<h3 align="center"><a href="https://weather-app-mayankkr7.netlify.app/"><strong>See live preview »</strong></a></h3>
+## Live Preview
+
+[See live preview »](https://weather-app-mayankkr7.netlify.app/)
 
 <br />
 

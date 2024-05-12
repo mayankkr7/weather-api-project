@@ -12,8 +12,11 @@ This project is a weather application built using React.js. It allows users to c
 ## Tech Stack
 
 **React.js:** Front-end JavaScript library for building user interfaces.
+
 **Axios:** Promise-based HTTP client for making API requests.
+
 **Tailwind CSS:** Utility-first CSS framework for styling the application.
+
 **OpenWeatherMap API:** Provides weather data for various locations worldwide.
 
 ### Tools used on this project

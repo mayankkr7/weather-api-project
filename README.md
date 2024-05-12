@@ -107,10 +107,12 @@ If you want to contact me, you can reach me through below handles.
 <a href="https://www.linkedin.com/in/mayankkr7/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/mayankkr7/" />
 </a>
+
 <a href="https://github.com/mayankkr7/">
         <img align="center" src="https://img.shields.io/badge/mayank_kumar-20242A?style=for-the-badge&logo=Github&logoColor=white" alt="https://github.com/mayankkr7/" />
 </a>
 
+<br/>
 © 2024 Mayank Kumar
 
 

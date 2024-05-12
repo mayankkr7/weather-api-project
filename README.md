@@ -17,6 +17,7 @@ This project is a weather application built using React.js. It allows users to c
 - Error handling for incorrect city names or API request failures.
 - Responsive design for optimal viewing on different devices.
 
+<br />
 
 ## Tech Stack
 

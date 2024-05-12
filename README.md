@@ -9,6 +9,15 @@ This project is a weather application built using React.js. It allows users to c
 
 <br />
 
+## Features
+
+- Users can enter a city name to check the weather.
+- The application displays the current temperature, weather description, and other relevant weather information.
+- It provides a welcoming message based on the time of day.
+- Error handling for incorrect city names or API request failures.
+- Responsive design for optimal viewing on different devices.
+
+
 ## Tech Stack
 
 **React.js:** Front-end JavaScript library for building user interfaces.
@@ -26,15 +35,6 @@ This project is a weather application built using React.js. It allows users to c
 
 <br />
 
-## Features
-
-- Users can enter a city name to check the weather.
-- The application displays the current temperature, weather description, and other relevant weather information.
-- It provides a welcoming message based on the time of day.
-- Error handling for incorrect city names or API request failures.
-- Responsive design for optimal viewing on different devices.
-
-<br />
 
 ## Getting Started
 This project was built using react: v18.2.0, react-dom: v18.2.0, axios: v1.6.8 and Tailwind CSS. It is a web application and for running on your local environment you should follow these guidelines.

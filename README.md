@@ -4,9 +4,8 @@
 
 This project is a weather application built using React.js. It allows users to check the current weather conditions for a specific city. Users can enter the name of a city, and the application retrieves weather data from the OpenWeatherMap API. To use the app, type a name of the city and click on search/press Enter or else click on the Check button.
 
-## Live Preview
 
-[See live preview »](https://weather-app-mayankkr7.netlify.app/)
+ <h3><a href="https://weather-app-mayankkr7.netlify.app/"><strong>See live preview »</strong></a></h3>
 
 <br />
 
@@ -108,9 +107,12 @@ If you want to contact me, you can reach me through below handles.
 <a href="https://www.linkedin.com/in/mayankkr7/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/mayankkr7/" />
 </a>
-[![Twitter](https://img.shields.io/badge/mayank_kumar-20242A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/mayankkr7/)
+<a href="https://github.com/mayankkr7/">
+        <img align="center" src="https://img.shields.io/badge/mayank_kumar-20242A?style=for-the-badge&logo=Github&logoColor=white" alt="https://github.com/mayankkr7/" />
+</a>
 
 © 2024 Mayank Kumar
+
 
 ## Show your support
 

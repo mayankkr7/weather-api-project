@@ -112,9 +112,6 @@ If you want to contact me, you can reach me through below handles.
         <img align="center" src="https://img.shields.io/badge/mayank_kumar-20242A?style=for-the-badge&logo=Github&logoColor=white" alt="https://github.com/mayankkr7/" />
 </a>
 
-<br/>
-© 2024 Mayank Kumar
-
 
 ## Show your support
 
